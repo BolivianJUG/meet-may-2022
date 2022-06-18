@@ -8,3 +8,4 @@
 ![Abstract Angel](img/abstract-mayo.jpg)
 
 Los slides de la charla de Angel estan en este [link](https://docs.google.com/presentation/d/1F8FSmA-7fj92g5_zvvM5V2LiPAii_ovCCK0AKpnh7tM/edit?usp=sharing), y el codigo lo puedes encontrar [aqui](https://github.com/achambi/multi-currency-money).
+Ademas del [curso de TDD](https://achambinina.gitbook.io/tdd/). 
